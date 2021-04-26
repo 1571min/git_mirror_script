@@ -1,0 +1,16 @@
+{
+  "name": "git_mirror_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/core": "^3.4.0",
+    "axios": "^0.21.1"
+  }
+}
